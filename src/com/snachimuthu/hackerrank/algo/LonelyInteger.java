@@ -9,7 +9,7 @@ import java.util.regex.*;
 public class LonelyInteger {
     
     public static int lonelyInteger(int[] a) {
-        
+        return 0;
     }
     
     public static void main(String[] args) {
